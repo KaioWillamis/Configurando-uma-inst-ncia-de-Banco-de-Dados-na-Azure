@@ -1,1 +1,3 @@
 # Configurando-uma-inst-ncia-de-Banco-de-Dados-na-Azure
+
+Configurar um banco de dados na Azure é como preparar um espaço online para guardar informações com segurança. Primeiro, acessamos o site da Azure e criamos um novo banco de dados. Depois, damos um nome para ele, escolhemos a localização (região) e criamos um login com senha para proteger o acesso. Feito isso, a Azure cuida do resto, e podemos usar esse banco para armazenar e organizar dados, acessando tudo de forma rápida e segura. É uma forma prática e moderna de usar banco de dados pela internet, sem precisar se preocupar com servidores físicos.
